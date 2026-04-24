@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">鱼泡网测试</string>
+    <string name="tab_find_work">找工作</string>
+    <string name="tab_job_helper">求职顾问</string>
+    <string name="tab_message">消息</string>
+    <string name="tab_mine">我的</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">搜索职位</string>
+    <string name="empty_content_hint">暂无数据</string>
+</resources>
